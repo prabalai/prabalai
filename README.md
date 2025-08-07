@@ -38,8 +38,8 @@
 
 ---
 
-## 🚀 Let's Connect
+## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/prabalsingh)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com/yourprofile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prabalsingh-data-science/)
+- 📊 [Kaggle](https://www.kaggle.com/prabalsh)
 
