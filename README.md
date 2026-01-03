@@ -9,7 +9,7 @@ My current interests lie in **LLM systems, Agentic AI, and MLOps**, with a stron
 
 🔭 Currently building: AI-Powered Study Assistant using LLMs  
 🌱 Learning: Generative AI · Agentic AI · LangChain · LangGraph · MLOps  
-📫 Reach me at: prabalsinghtest@email.com  
+📫 Reach me at: prabalsinghtest@gmail.com  
 
 ---
 
